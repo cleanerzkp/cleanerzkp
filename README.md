@@ -51,10 +51,16 @@ Currently diving deep into Machine Learning
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleanerzkp&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cleanerzkp&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleanerzkp&theme=radical" alt="GitHub Streak" width="350" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleanerzkp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cleanerzkp&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleanerzkp&theme=radical&hide_border=false" alt="GitHub Streak" height="150" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cleanerzkp&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
