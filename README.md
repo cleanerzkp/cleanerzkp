@@ -50,15 +50,12 @@ Currently diving deep into Machine Learning
 </p>
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleanerzkp&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleanerzkp&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleanerzkp&theme=radical" alt="GitHub Streak" />
-</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleanerzkp&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cleanerzkp&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleanerzkp&theme=radical" alt="GitHub Streak" width="350" />
+</div>
 
 ---
 
