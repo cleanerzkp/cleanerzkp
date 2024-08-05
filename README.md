@@ -44,7 +44,6 @@ Currently diving deep into Machine Learning
   <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=032" alt="optimism" width="40" height="40"/>
 
   <!-- Miscellaneous Tools -->
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="github" width="40" height="40"/>
   <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker" width="40" height="40"/>
   <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/>
