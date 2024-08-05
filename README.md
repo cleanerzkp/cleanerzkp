@@ -17,7 +17,6 @@ Currently diving deep into Machine Learning
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/R/rust-logo-2DF8B67AF4-seeklogo.com.png" alt="rust" width="40" height="40"/>
 
   <!-- Frontend Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -45,7 +44,6 @@ Currently diving deep into Machine Learning
   <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=032" alt="optimism" width="40" height="40"/>
 
   <!-- Miscellaneous Tools -->
-  <img src="https://seeklogo.com/images/G/git-logo-CD8C97E312-seeklogo.com.png" alt="git" width="40" height="40"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="github" width="40" height="40"/>
   <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker" width="40" height="40"/>
   <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="kubernetes" width="40" height="40"/>
