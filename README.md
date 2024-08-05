@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cleanerzkp&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🏆 Recent Achievement
-**ETH Global Brussels**: Finalist (Top 10 project)
+**ETH Global Brussels Finalist** -- [🧑‍🍳](https://ethglobal.com/showcase/cook-some-hooks-ehuy8)
 
 ## 🔭 Current Project
 [Cook some Hooks](https://cook-some-hook.vercel.app/) - A v4 hook generator leveraging generative AI
@@ -37,24 +37,19 @@ Currently diving deep into Machine Learning
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
   <!-- Web3 & Blockchain -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original-wordmark.svg" alt="ethereum" width="40" height="40"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" alt="ethereum" width="40" height="40"/>
   <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" alt="solidity" width="40" height="40"/>
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3js" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="ganache" width="40" height="40"/>
   <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers.js" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/C/chainlink-logo-82F6E18FC7-seeklogo.com.png" alt="chainlink" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/O/optimism-logo-27C8E8C107-seeklogo.com.png" alt="optimism" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/F/foundry-logo-EEA8B6E807-seeklogo.com.png" alt="foundry" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/F/farcaster-logo-57DCB78DA6-seeklogo.com.png" alt="farcaster" width="40" height="40"/>
+  <img src="https://cryptologos.cc/logos/chainlink-link-logo.png?v=032" alt="chainlink" width="40" height="40"/>
+  <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=032" alt="optimism" width="40" height="40"/>
 
   <!-- Miscellaneous Tools -->
   <img src="https://seeklogo.com/images/G/git-logo-CD8C97E312-seeklogo.com.png" alt="git" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="github" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="github" width="40" height="40"/>
   <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker" width="40" height="40"/>
   <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="kubernetes" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/A/aws-logo-D8F96D7B0B-seeklogo.com.png" alt="aws" width="40" height="40"/>
+  <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/>
   <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase" width="40" height="40"/>
 </p>
 
