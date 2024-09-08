@@ -13,7 +13,7 @@ Currently diving deep into Machine Learning
 
 ## 🔒 Rotki - Privacy-Focused Portfolio Tracker
 
-I work at [Rotki](https://rotki.com/), an open-source, privacy-first portfolio tracker for crypto. [GitHub](https://github.com/rotki/rotki).
+I work at [Rotki](https://rotki.com/), an open-source, privacy-first portfolio tracker for crypto [GitHub](https://github.com/rotki/rotki).
 
 ## 🛠 Tech Stack
 <p align="left">
