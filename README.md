@@ -5,9 +5,6 @@
 ## 🏆 Recent Achievement
 **ETH Global Brussels Finalist** -- [🧑‍🍳](https://ethglobal.com/showcase/cook-some-hooks-ehuy8)
 
-## 🔭 Current Project
-[Cook some Hooks](https://cook-some-hook.vercel.app/) - A v4 hook generator leveraging generative AI
-
 ## 🌱 Learning
 Currently diving deep into Machine Learning
 
