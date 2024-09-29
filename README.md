@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cleanerzkp&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🏆 Recent Achievement
-**ETH Global Brussels Finalist** -- [🧑‍🍳](https://ethglobal.com/showcase/cook-some-hooks-ehuy8)
+**ETH Global Brussels Finalist** -- [Cook some Hooks 🧑‍🍳](https://ethglobal.com/showcase/cook-some-hooks-ehuy8)
 
 ## 🌱 Learning
 Currently diving deep into Machine Learning
