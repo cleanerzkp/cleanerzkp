@@ -1,67 +1,35 @@
-# Kacper Karbownik | Full-Stack Web3 Developer 🚀
+# Kacper Karbownik — Product Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=cleanerzkp&label=Profile%20views&color=0e75b6&style=flat)
+Warsaw, Poland · [Portfolio](https://kacperkarbownik.xyz/) · [Email](mailto:kacperkarbownik98@gmail.com)
 
-## 🏆 Recent Achievement
-**ETH Global Brussels Finalist** -- [Cook some Hooks 🧑‍🍳](https://ethglobal.com/showcase/cook-some-hooks-ehuy8)
+I ship production software across interfaces, APIs, SDKs, and integrations—with a focus on financial products, developer tools, and on-chain systems.
 
-## 🌱 Learning
-Currently diving deep into Machine Learning
+## Currently
 
-## 🔒 Rotki - Privacy-Focused Portfolio Tracker
+Full-stack Web3 / Product Engineer at [Amplifi Liquidity](https://www.amplifiliquidity.com/), building production DeFi frontends, TypeScript SDKs, and embeddable React widgets.
 
-I work at [Rotki](https://rotki.com/), an open-source, privacy-first portfolio tracker for crypto [GitHub](https://github.com/rotki/rotki).
+Previously: [rotki](https://rotki.com/) and [DappRadar](https://dappradar.com/).
 
-## 🛠 Tech Stack
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+## Selected work
 
-  <!-- Frontend Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwindcss" width="40" height="40"/>
+- **[Amplifi Vaults SDK](https://www.npmjs.com/package/@amplifi-liquidity/amplifi-vaults-sdk)** — designed and built the typed TypeScript SDK API and React widget for third-party strategy integrations.
+- **[The Deep](https://app.thedeep.ink/explore)** — designed and built a multi-chain vault discovery, deposit, withdrawal, and portfolio product at Amplifi.
+- **[Flow](https://liquidity.flow.com/explore)** and **[Canopy](https://app.canopyhub.xyz/explore)** — production liquidity interfaces built for Flow Foundation and Movement Labs.
+- **[rotki Wrapped](https://rotki.com/)** — privacy-preserving portfolio analytics in an open-source, local-first application.
+- **[Cook some Hooks](https://ethglobal.com/showcase/cook-some-hooks-ehuy8)** — AI-assisted Uniswap v4 hook generator using RAG and one-click deployment.
 
-  <!-- Backend Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
+## Core stack
 
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+**Product engineering:** TypeScript, React, Next.js, Vue.js, Node.js, GraphQL, AppSync, REST, PostgreSQL, Cloudflare
 
-  <!-- Web3 & Blockchain -->
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" alt="ethereum" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" alt="solidity" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers.js" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/chainlink-link-logo.png?v=032" alt="chainlink" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=032" alt="optimism" width="40" height="40"/>
+**On-chain:** Solidity, viem, wagmi, Uniswap v4, EVM, wallet and transaction integrations
 
-  <!-- Miscellaneous Tools -->
-  <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase" width="40" height="40"/>
-</p>
+**Applied AI prototypes:** RAG, TensorFlow.js
 
-## 📊 GitHub Stats
+## Recognition
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleanerzkp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cleanerzkp&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleanerzkp&theme=radical&hide_border=false" alt="GitHub Streak" height="150" />
-</div>
+- ETHGlobal Brussels 2024 — finalist, top 10 of 355 projects
+- ZK Hack Kraków 2024 — Mina Foundation prize
+- DegenHack 2024 — 1st place, Aleph Zero track
 
-
----
-
-<p align="center">
-  <a href="https://kacperkarbownik.xyz/">Portfolio</a>
-</p>
+See the full work and proof at [kacperkarbownik.xyz](https://kacperkarbownik.xyz/).
